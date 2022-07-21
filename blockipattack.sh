@@ -5,3 +5,4 @@ do
 	csf -d $ip
 #	imunify360-agent blacklist ip add $ip --scope group
 done
+
